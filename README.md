@@ -1,9 +1,9 @@
 # AIML LAB EXTERNAL (2024-25)
 <table>
   <tr>
-    <th>HALL TICKET NUMBER</th>
-    <th>SET</th>
-    <th>DATASET</th>
+    <th>HALL TICKET NO's</th>
+    <th>SET OF QUESTIONS</th>
+    <th>DATASETS</th>
   </tr>
   <tr>
     <td>2003A51286<br>
