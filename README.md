@@ -1,5 +1,5 @@
 # AIML_2024-25
-<table style = "width: 100%;">
+<table style = "width: 1000px;">
   <tr>
     <th>SL NO'S</th>
     <th>SET</th>
