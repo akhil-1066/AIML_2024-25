@@ -1,13 +1,21 @@
 # AIML LAB EXTERNAL (2024-25)
 <table style = "width: 1000px;">
   <tr>
-    <th><strong>HALL TICKET NUMBER></strong></th>
+    <th>HALL TICKET NUMBER</th>
     <th>SET</th>
     <th>DATASET</th>
   </tr>
   <tr>
     <td>2003A51286<br>
-      2303A51676</td>
+      2303A51712<br>
+      2303A51973<br>
+    2303A51982<br>
+    2303A51995<br>
+    2303A51047<br>
+    2303A51056<br>
+    2303A51065<br>
+    2303A51074<br>
+    2303A510I5</td>
     <td><a href = "https://drive.google.com/file/d/13c9FP2d02Ovw5mPi0sj-SX4DM-rBwJem/view?usp=drive_link">SET - 1</a></td>
     <td><a href = "https://people.sc.fsu.edu/~jburkardt/data/csv/hw_200.csv">DATASET</a></td>
   </tr>
