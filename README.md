@@ -33,22 +33,54 @@
     <td><a href = "https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data">DATASET</a></td>
   </tr>
   <tr>
-    <td></td>
+    <td>2303A510G5<br>
+      2303A51837<br>
+      2303A51975<br>
+      2303A51987<br>
+      2303A51998<br>
+      2303A51050<br>
+      2303A51058<br>
+      2303A51068<br>
+      2303A51078</td>
     <td><a href = "https://drive.google.com/file/d/1nxyrJx_PIvLosEBS2P1T-76v31rEvBRY/view?usp=drive_link">SET - 3</a></td>
     <td><a href = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data">DATASET</a></td>
   </tr>
   <tr>
-    <td></td>
+    <td>2303A510H3<br>
+      2303A51955<br>
+      2303A51978<br>
+      2303A51989<br>
+      2303A51044<br>
+      2303A51053<br>
+      2303A51061<br>
+      2303A51069<br>
+      2303A51079</td>
     <td><a href = "https://drive.google.com/file/d/1bNVbeopLhRh1yPMKuH8vTnhK7PGhULmb/view?usp=drive_link">SET - 4</a></td>
     <td><a href = "https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data">DATASET</a></td>
   </tr>
   <tr>
-    <td></td>
+    <td>2303A51124<br>
+      2303A51971<br>
+      2303A51979<br>
+      2303A51990<br>
+      2303A51045<br>
+      2303A51054<br>
+      2303A51063<br>
+      2303A51071<br>
+      2303A510F5</td>
     <td><a href = "https://drive.google.com/file/d/1COLl-5dJ0r13Ca3e1C18cApkEgscSRoB/view?usp=drive_link">SET - 5</a></td>
     <td><a href = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data">DATASET</a></td>
   </tr>
   <tr>
-    <td></td>
+    <td>2303A51676<br>
+      2303A51972<br>
+      2303A51981<br>
+      2303A51993<br>
+      2303A51046<br>
+      2303A51055<br>
+      2303A51064<br>
+      2303A51072<br>
+      2303A510G8</td>
     <td><a href = "https://drive.google.com/file/d/1sSrt_AXQcgBN8ckZrtxBQTkPAg9zHUE_/view?usp=drive_link">SET - 6</a></td>
     <td><a href = "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv">DATASET</a></td>
   </tr>
