@@ -2,8 +2,8 @@
 <table>
   <tr>
     <th>HALL TICKET NO's</th>
-    <th>SET OF QUESTIONS</th>
-    <th>DATASETS</th>
+    <th>SET</th>
+    <th>DATASET</th>
   </tr>
   <tr>
     <td>2003A51286<br>
@@ -16,7 +16,7 @@
       2303A51065<br>
       2303A51074<br>
       2303A510I5</td>
-    <td><a href = "https://drive.google.com/file/d/13c9FP2d02Ovw5mPi0sj-SX4DM-rBwJem/view?usp=drive_link"><center>SET - 1</center></a></td>
+    <td><a href = "https://drive.google.com/file/d/13c9FP2d02Ovw5mPi0sj-SX4DM-rBwJem/view?usp=drive_link">SET - 1</a></td>
     <td><a href = "https://people.sc.fsu.edu/~jburkardt/data/csv/hw_200.csv">DATASET</a></td>
   </tr>
   <tr>
