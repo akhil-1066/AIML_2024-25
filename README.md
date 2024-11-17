@@ -2,7 +2,7 @@
 <table>
   <tr>
     <th>HALL TICKET NUMBER</th>
-    <th>SET</th>
+    <th>  SET  </th>
     <th>DATASET</th>
   </tr>
   <tr>
