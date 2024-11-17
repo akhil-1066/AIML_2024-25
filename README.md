@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td></td>
-    <td><a href = "https://drive.google.com/file/d/1Ue3_T1DzhbumKxZS_x7mIkoAgIRf7h3u/view?usp=drive_link">SET - 6</a></td>
+    <td><a href = "https://drive.google.com/file/d/1sSrt_AXQcgBN8ckZrtxBQTkPAg9zHUE_/view?usp=drive_link">SET - 6</a></td>
     <td><a href = "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv">DATASET</a></td>
   </tr>
 </table>
