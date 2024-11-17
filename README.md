@@ -1,5 +1,5 @@
 # AIML LAB EXTERNAL (2024-25)
-<table style = "width: 1000px;">
+<table>
   <tr>
     <th>HALL TICKET NUMBER</th>
     <th>SET</th>
