@@ -1,5 +1,5 @@
 # AIML LAB EXTERNAL (2024-25)
-<a href = "https://forms.gle/T6pQ7DjAwnmv4KBd8"><h1>Submit Your Github File URL</h1></a>
+<a href = "https://forms.gle/T6pQ7DjAwnmv4KBd8">Submit Your Github File URL</a>
 <table>
   <tr>
     <th>HALL TICKET NO's</th>
