@@ -31,7 +31,7 @@
       2303A51066<br>
       2303A51075</td>
     <td><a href = "https://drive.google.com/file/d/1NMN5Gg9l3EfnUlx7hc8_zOeuSNSFuPrA/view?usp=drive_link">SET - 2</a></td>
-    <td><a href = "https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data">DATASET</a></td>
+    <td><a href = "https://www.kaggle.com/datasets/satayjit/student-performance-bd">DATASET</a></td>
   </tr>
   <tr>
     <td>2303A510G5<br>
@@ -44,7 +44,7 @@
       2303A51068<br>
       2303A51078</td>
     <td><a href = "https://drive.google.com/file/d/1nxyrJx_PIvLosEBS2P1T-76v31rEvBRY/view?usp=drive_link">SET - 3</a></td>
-    <td><a href = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data">DATASET</a></td>
+    <td><a href = "https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data">DATASET</a></td>
   </tr>
   <tr>
     <td>2303A510H3<br>
@@ -57,7 +57,7 @@
       2303A51069<br>
       2303A51079</td>
     <td><a href = "https://drive.google.com/file/d/1bNVbeopLhRh1yPMKuH8vTnhK7PGhULmb/view?usp=drive_link">SET - 4</a></td>
-    <td><a href = "https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data">DATASET</a></td>
+    <td><a href = "https://www.kaggle.com/datasets/zeeshier/weather-forecast-dataset">DATASET</a></td>
   </tr>
   <tr>
     <td>2303A51124<br>
@@ -70,7 +70,7 @@
       2303A51071<br>
       2303A510F5</td>
     <td><a href = "https://drive.google.com/file/d/1COLl-5dJ0r13Ca3e1C18cApkEgscSRoB/view?usp=drive_link">SET - 5</a></td>
-    <td><a href = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data">DATASET</a></td>
+    <td><a href = "https://www.kaggle.com/datasets/zeeshier/weather-forecast-dataset">DATASET</a></td>
   </tr>
   <tr>
     <td>2303A51676<br>
@@ -83,6 +83,6 @@
       2303A51072<br>
       2303A510G8</td>
     <td><a href = "https://drive.google.com/file/d/1sSrt_AXQcgBN8ckZrtxBQTkPAg9zHUE_/view?usp=drive_link">SET - 6</a></td>
-    <td><a href = "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv">DATASET</a></td>
+    <td><a href = "https://www.kaggle.com/datasets/daniellopez01/credit-risk">DATASET</a></td>
   </tr>
 </table>
